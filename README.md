@@ -1,4 +1,5 @@
 🌟 Hello! I'm Waleed Akrabi 🌟
+
 As a computer science student at the University of Toronto St. George, I'm on a mission to blend technology with social impact. My journey has taken me from developing innovative applications like SportBuddy, which connects sports enthusiasts, to conducting cutting-edge research on AI prompting methods that enhance machine reasoning.
 
 🚀 What I Bring to the Table:
