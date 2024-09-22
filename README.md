@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on q Predictive Analytics System for Student Performance<br>I go to The University of Toronto<br>🌱 I’m currently learning Tensor flow 
+🌟 Hello! I'm Waleed Akrabi 🌟
+As a computer science student at the University of Toronto, I'm on a mission to blend technology with social impact. My journey has taken me from developing innovative applications like SportBuddy, which connects sports enthusiasts, to conducting cutting-edge research on AI prompting methods that enhance machine reasoning.
+
+🚀 What I Bring to the Table:
+
+Programming Proficiency: Mastering languages such as Java, Python, and R to craft robust solutions.
+Framework Wizardry: Utilizing React and Flask to build dynamic, user-centric applications.
+Data Enthusiast: Passionate about data analysis and visualization to uncover insights that drive decision-making.
+💡 My Passion:
+I'm deeply motivated by the potential of technology to solve real-world challenges. Whether it's creating sustainable investment tools or pioneering projects that promote well-being, I strive to make a meaningful impact.
+
+🌍 Let’s Innovate Together:
+I'm always eager to collaborate on groundbreaking projects and share insights. Dive into my repositories, and let's connect to create something extraordinary!
 
 
 # 💻 Tech Stack:
