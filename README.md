@@ -6,6 +6,7 @@ As a computer science student at the University of Toronto St. George, I'm on a 
 Programming Proficiency: Mastering languages such as Java, Python, and R to craft robust solutions.
 Framework Wizardry: Utilizing React and Flask to build dynamic, user-centric applications.
 Data Enthusiast: Passionate about data analysis and visualization to uncover insights that drive decision-making.
+
 💡 My Passion:
 I'm deeply motivated by the potential of technology to solve real-world challenges. Whether it's creating sustainable investment tools or pioneering projects that promote well-being, I strive to make a meaningful impact.
 
