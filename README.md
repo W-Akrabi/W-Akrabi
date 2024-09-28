@@ -4,7 +4,7 @@ As a computer science student at the University of Toronto St. George, I'm on a 
 
 🚀 What I Bring to the Table:
 
-Programming Proficiency: Mastering languages such as Java, Python, and R to craft robust solutions.
+Programming Proficiency: Mastering languages such as Java, Python, and R to craft robust solutions (main language is Pyhton).
 Framework Wizardry: Utilizing React and Flask to build dynamic, user-centric applications.
 Data Enthusiast: Passionate about data analysis and visualization to uncover insights that drive decision-making.
 
