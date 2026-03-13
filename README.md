@@ -22,7 +22,7 @@ I'm always eager to collaborate on groundbreaking projects and share insights. D
 ![](https://github-readme-streak-stats.herokuapp.com/?user=W-Akrabi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=W-Akrabi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
